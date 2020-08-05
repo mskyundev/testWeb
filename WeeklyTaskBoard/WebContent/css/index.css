@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+#calTable{
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+table{
+	border: 1px solid; 
+	width: 80%;
+}
+tr{
+	border: 1px solid; 
+}
+td{
+	border: 1px solid; 
+}
+th{
+	border: 1px solid; 
+}
